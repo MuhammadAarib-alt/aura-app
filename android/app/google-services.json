@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381059713285",
+    "project_id": "aura-b23b8",
+    "storage_bucket": "aura-b23b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381059713285:android:c42c2b3a980788bf25cf6c",
+        "android_client_info": {
+          "package_name": "com.aura.lifemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381059713285-snkts0t4cvgadjcpf999398ku5pdhtgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9hOcwmuAJmlu09Lg0UKwSe-Izdrrz9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381059713285-snkts0t4cvgadjcpf999398ku5pdhtgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
